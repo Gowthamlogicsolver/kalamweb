@@ -13,7 +13,7 @@ const Navbar = ({ scrollToSection, HomeRef, AboutRef, TeamsRef, FixturesRef }) =
     <div className='MainNavContainer'>
       <nav className="nav-class">
         <div className="clgLogo">
-          <img src="./assets/kct.png" alt="College Logo" />
+          <img src="https://github.com/Gowthamlogicsolver/kalamweb/blob/main/src/assets/kct.png" alt="College Logo" />
         </div>
 
         {/* Regular Navigation Items for larger screens */}
