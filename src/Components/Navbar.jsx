@@ -13,7 +13,7 @@ const Navbar = ({ scrollToSection, HomeRef, AboutRef, TeamsRef, FixturesRef }) =
     <div className='MainNavContainer'>
       <nav className="nav-class">
         <div className="clgLogo">
-          <img src="./assets/clgBackgound.jpg" alt="College Logo" />
+          <img src="kct.png" alt="College Logo" />
         </div>
 
         {/* Regular Navigation Items for larger screens */}
