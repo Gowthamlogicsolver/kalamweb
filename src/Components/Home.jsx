@@ -3,7 +3,7 @@ const Home = () => {
   return (
     <div className="HomeContainer1">
       <div className="HomeContainer2">
-            <img className="kalamLogo" src="https://gowthamlogicsolver.github.io/kalamweb/assets/clgBackgound-CT3o7_tU.jpg" alt="" />
+            <img className="kalamLogo" src="/KalamLogo.png" alt="" />
             <div className="text">
               {/* <h1>Kumaraguru Intra College Sports Fest</h1>
               <h1>KALAM 2024</h1> */}
