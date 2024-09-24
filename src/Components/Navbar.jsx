@@ -20,7 +20,7 @@ const Navbar = ({ scrollToSection, HomeRef, AboutRef, TeamsRef, FixturesRef }) =
         <div className="nav-items">
           <ul className="nav-ul">
             <li className="nav-li">
-              <a href="#" onClick={(e) => {e.preventDefault(); scrollToSection(HomeRef);}}>Ho</a>
+              <a href="#" onClick={(e) => {e.preventDefault(); scrollToSection(HomeRef);}}>Home</a>
             </li>
             <li className="nav-li">
               <a href="#" onClick={(e) => {e.preventDefault(); scrollToSection(AboutRef);}}>About</a>
